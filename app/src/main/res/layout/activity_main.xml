@@ -42,7 +42,7 @@
                 android:layout_width="@dimen/_50sdp"
                 android:layout_height="@dimen/_50sdp"
                 android:layout_marginBottom="@dimen/_8sdp"
-                android:src="@drawable/o" />
+                android:src="@drawable/o_white" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -80,7 +80,7 @@
                 android:layout_width="@dimen/_50sdp"
                 android:layout_height="@dimen/_50sdp"
                 android:layout_marginBottom="@dimen/_8sdp"
-                android:src="@drawable/x" />
+                android:src="@drawable/x_white" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
